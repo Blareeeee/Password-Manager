@@ -59,12 +59,18 @@ python main.py
 ##📁 File Structure
 password-manager/
 ├── main.py
+
 ├── requirements.txt
+
 ├── README.md
+
 ├── LICENSE
+
 ├── .gitignore
+
 └── docs/
-    └── screenshots/
+    
+        └── screenshots/
 
 ## Generated Files (not in repo)
 
