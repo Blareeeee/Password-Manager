@@ -65,7 +65,7 @@ password-manager/
 ├── LICENSE             # MIT License
 ├── .gitignore          # Git ignore rules
 └── docs/
-    └── screenshots/
+        └── screenshots/
 
 ## Generated Files (not in repo)
 passwords.encrypted    # Encrypted password database
