@@ -1,4 +1,3 @@
-# Password-Manager
 # 🔐 Password Manager
 
 A secure, GUI-based password manager with military-grade encryption.
