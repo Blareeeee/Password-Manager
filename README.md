@@ -33,31 +33,11 @@ A secure, GUI-based password manager with military-grade encryption.
 - Tkinter
 - Git
 
-## Installation
-
-### 1. Clone the repository
-    git clone https://github.com/YOUR_USERNAME/password-manager.git
-    cd password-manager
-
-### 2. Create virtual environment
-    python -m venv venv
-
-### 3. Install dependencies
-    pip install -r requirements.txt
-
-### 4. Run the application
-    python main.py
-
-
 ## Generated Files (not in repo)
-
-passwords.encrypted    # Encrypted password database
-
-salt.bin              # Encryption salt
-
-master.hash           # Hashed master password
-
-backup_*.encrypted    # Automatic timestamped backups
+- passwords.encrypted   # Encrypted password database
+- salt.bin              # Encryption salt
+- master.hash           # Hashed master password
+- backup_*.encrypted    # Automatic timestamped backups
 
 
 ## 🔧 Usage Guide
