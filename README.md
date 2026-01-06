@@ -61,9 +61,9 @@ master.hash           # Hashed master password
 backup_*.encrypted    # Automatic timestamped backups
 
 
-### 🔧 Usage Guide
+## 🔧 Usage Guide
 
-## Adding a New Password
+### Adding a New Password
 
 Enter website/app name in the left panel
 
@@ -75,7 +75,7 @@ Add optional notes
 
 Click "💾 SAVE"
 
-## Managing Passwords
+### Managing Passwords
 
 Search: Type in search box to filter entries
 
@@ -87,7 +87,7 @@ Show/Hide: Click 👁️ button to temporarily reveal password
 
 Delete: Select entry and click "🗑️ Delete"
 
-## Password Generation
+### Password Generation
 
 Click the 🎲 button to generate a secure password:
 
@@ -97,18 +97,18 @@ Includes uppercase, lowercase, numbers, symbols
 
 Automatically copied to clipboard
 
-### Linux Specific Setup
+## Linux Specific Setup
 
-## Ubuntu/Debian
+### Ubuntu/Debian
     sudo apt update
     sudo apt install python3-tk
 
-## Fedora
+### Fedora
     sudo dnf install python3-tkinter
 
-## Arch
+### Arch
     sudo pacman -S tk
 
-### ⚠️Disclaimer
+## ⚠️Disclaimer
 
-This software is provided "as is", without warranty of any kind. The developers are not responsible for any data loss or security breaches. Always keep multiple backups of your encrypted data.
+This software is provided "as is", without warranty of any kind. The developer is not responsible for any data loss or security breaches. Always keep multiple backups of your encrypted data.
