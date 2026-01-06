@@ -57,10 +57,15 @@ pip install -r requirements.txt
 python main.py
 
 ## Generated Files (not in repo)
+
 passwords.encrypted    # Encrypted password database
+
 salt.bin              # Encryption salt (unique per install)
+
 master.hash           # Hashed master password
+
 backup_*.encrypted    # Automatic timestamped backups
+
 
 ### 🔧 Usage Guide
 
