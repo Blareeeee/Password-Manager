@@ -53,7 +53,7 @@ A secure, GUI-based password manager with military-grade encryption.
 
 passwords.encrypted    # Encrypted password database
 
-salt.bin              # Encryption salt (unique per install)
+salt.bin              # Encryption salt
 
 master.hash           # Hashed master password
 
