@@ -1,7 +1,7 @@
 # Password-Manager
 # 🔐 Password Manager
 
-A secure, GUI-based password manager with military-grade encryption and modern GitHub Dark theme interface.
+A secure, GUI-based password manager with military-grade encryption.
 
 ## ✨ Features
 
