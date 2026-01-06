@@ -56,17 +56,6 @@ pip install -r requirements.txt
 ## 5. Run the application
 python main.py
 
-## 📁 File Structure
-
-password-manager/
-├── main.py              # Main application code
-├── requirements.txt     # Python dependencies
-├── README.md           # This file
-├── LICENSE             # MIT License
-├── .gitignore          # Git ignore rules
-└── docs/
-        └── screenshots/
-
 ## Generated Files (not in repo)
 passwords.encrypted    # Encrypted password database
 salt.bin              # Encryption salt (unique per install)
