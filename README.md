@@ -5,7 +5,7 @@ A secure, GUI-based password manager with military-grade encryption.
 ## ✨ Features
 
 ### 🔒 Security
-- **AES-256 Encryption** using Fernet (cryptography library)
+- **AES-256 Encryption** using Fernet
 - **PBKDF2 Key Derivation** with 100,000 iterations
 - **Master Password Protection** - never stored in plain text
 - **Automatic Encrypted Backups** with timestamps
@@ -39,7 +39,7 @@ A secure, GUI-based password manager with military-grade encryption.
     git clone https://github.com/YOUR_USERNAME/password-manager.git
     cd password-manager
 
-### 2. Create virtual environment (recommended)
+### 2. Create virtual environment
     python -m venv venv
 
 ### 3. Install dependencies
