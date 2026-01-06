@@ -56,6 +56,16 @@ pip install -r requirements.txt
 ### 5. Run the application
 python main.py
 
+##📁 File Structure
+password-manager/
+├── main.py
+├── requirements.txt
+├── README.md
+├── LICENSE
+├── .gitignore
+└── docs/
+    └── screenshots/
+
 ## Generated Files (not in repo)
 
 passwords.encrypted    # Encrypted password database
