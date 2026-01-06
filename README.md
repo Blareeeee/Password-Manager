@@ -37,24 +37,23 @@ A secure, GUI-based password manager with military-grade encryption and modern G
 
 ### Installation
 
-bash
-# 1. Clone the repository
+## 1. Clone the repository
 git clone https://github.com/YOUR_USERNAME/password-manager.git
 cd password-manager
 
-# 2. Create virtual environment (recommended)
+## 2. Create virtual environment (recommended)
 python -m venv venv
 
-# 3. Activate virtual environment
-# On Windows:
+## 3. Activate virtual environment
+On Windows:
 venv\Scripts\activate
-# On Linux/Mac:
+On Linux/Mac:
 source venv/bin/activate
 
-# 4. Install dependencies
+## 4. Install dependencies
 pip install -r requirements.txt
 
-# 5. Run the application
+## 5. Run the application
 python main.py
 
 ## 📁 File Structure
