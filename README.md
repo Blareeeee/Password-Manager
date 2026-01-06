@@ -38,39 +38,18 @@ A secure, GUI-based password manager with military-grade encryption and modern G
 ## Installation
 
 ### 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/password-manager.git
-cd password-manager
+    git clone https://github.com/YOUR_USERNAME/password-manager.git
+    cd password-manager
 
 ### 2. Create virtual environment (recommended)
-python -m venv venv
+    python -m venv venv
 
-### 3. Activate virtual environment
-On Windows:
-venv\Scripts\activate
-On Linux/Mac:
-source venv/bin/activate
+### 3. Install dependencies
+    pip install -r requirements.txt
 
-### 4. Install dependencies
-pip install -r requirements.txt
+### 4. Run the application
+    python main.py
 
-### 5. Run the application
-python main.py
-
-##📁 File Structure
-password-manager/
-├── main.py
-
-├── requirements.txt
-
-├── README.md
-
-├── LICENSE
-
-├── .gitignore
-
-└── docs/
-    
-        └── screenshots/
 
 ## Generated Files (not in repo)
 
@@ -122,14 +101,14 @@ Automatically copied to clipboard
 ### Linux Specific Setup
 
 ## Ubuntu/Debian
-sudo apt update
-sudo apt install python3-tk
+    sudo apt update
+    sudo apt install python3-tk
 
 ## Fedora
-sudo dnf install python3-tkinter
+    sudo dnf install python3-tkinter
 
 ## Arch
-sudo pacman -S tk
+    sudo pacman -S tk
 
 ### ⚠️Disclaimer
 
