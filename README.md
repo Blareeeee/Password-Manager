@@ -13,7 +13,6 @@ A secure, GUI-based password manager with military-grade encryption.
 - **30-minute Auto-Lock** for inactive sessions
 
 ### 🎨 User Interface
-- **GitHub Dark Theme** - modern, eye-friendly interface
 - **High-DPI Support** - perfect scaling on 4K displays
 - **Two-panel Layout** - form on left, password list on right
 - **Real-time Search** with instant filtering
@@ -31,8 +30,8 @@ A secure, GUI-based password manager with military-grade encryption.
 
 ### Prerequisites
 - Python 3.8 or higher
-- Tkinter (usually included with Python)
-- Git (for cloning)
+- Tkinter
+- Git
 
 ## Installation
 
